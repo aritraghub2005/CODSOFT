@@ -1,0 +1,32 @@
+[
+  [
+    \"What is the capital of France?\",
+    [
+      \"Paris\",
+      \"London\",
+      \"Rome\",
+      \"Berlin\"
+    ],
+    \"Paris\"
+  ],
+  [
+    \"Which planet is known as the Red Planet?\",
+    [
+      \"Earth\",
+      \"Venus\",
+      \"Mars\",
+      \"Jupiter\"
+    ],
+    \"Mars\"
+  ],
+  [
+    \"Who wrote 'Romeo and Juliet'?\",
+    [
+      \"William Shakespeare\",
+      \"Charles Dickens\",
+      \"J.K. Rowling\",
+      \"Mark Twain\"
+    ],
+    \"William Shakespeare\"
+  ]
+]

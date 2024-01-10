@@ -1,0 +1,29 @@
+[
+      [
+        "1) What is the capital of France?",
+        ["Paris", "London", "Rome", "Berlin"],
+        "Paris"
+      ],
+      [
+        "2) Which planet is known as the Red Planet?",
+        ["Earth", "Venus", "Mars", "Jupiter"],
+        "Mars"
+      ],
+      [
+        "3) Who wrote 'Romeo and Juliet'?",
+        ["William Shakespeare", "Charles Dickens", "J.K. Rowling", "Mark Twain"],
+        "William Shakespeare"
+      ],
+      [
+        "4) What is the largest ocean on Earth?",
+        ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "Pacific Ocean"
+      ],
+      [
+        "5) What is the chemical symbol for gold?",
+        ["Au", "Ag", "Fe", "O"],
+        "Au"
+      ]
+]
+
+
